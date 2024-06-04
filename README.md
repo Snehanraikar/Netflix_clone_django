@@ -21,7 +21,7 @@ This is a Netflix clone app built using Django, a Python web framework. The app 
 2. Navigate to the project directory:
 
    ```
-   cd netflix-clone
+   cd django_netflix_clone
    ```
 
 virtual environment:
