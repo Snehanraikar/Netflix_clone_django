@@ -24,38 +24,39 @@ This is a Netflix clone app built using Django, a Python web framework. The app 
    cd django_netflix_clone
    ```
 
-virtual environment:
+3. virtual environment:
 
    ```
    source venv/bin/activate
    ```
 
-5. Install the required packages:
+4. Install the required packages:
 
    ```
    pip install -r requirements.txt
    ```
 
-6. Set up the database:
+5. Set up the database:
 
    ```
    python manage.py makemigrations
    python manage.py migrate
    ```
 
-7. Create a superuser account:
+6. Create a superuser account:
 
    ```
    python manage.py createsuperuser
    ```
+   You can leave blank for username, and then input the password.
 
-8. Run the development server:
+7. Run the development server:
 
    ```
    python manage.py runserver
    ```
 
-9. Visit http://localhost:8000/ in your web browser to access the app.
+8. Visit http://localhost:8000/ in your web browser to access the app.
 
 ## Usage
 
