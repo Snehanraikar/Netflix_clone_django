@@ -15,7 +15,7 @@ This is a Netflix clone app built using Django, a Python web framework. The app 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/netflix-clone.git
+   git clone https://github.com/Snehanraikar/Netflix_clone_django.git
    ```
 
 2. Navigate to the project directory:
