@@ -71,10 +71,6 @@ You can also view and update your user profile, including your watch history and
 
 Contributions to this project are welcome! If you find a bug or would like to suggest a new feature, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 For more understanding about the code, you can follow freecode.org for their tutorial.
 
 
