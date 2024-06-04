@@ -1,5 +1,3 @@
-Sure! Here's a sample README file for a Netflix clone app using Django:
-
 # Netflix Clone App
 
 This is a Netflix clone app built using Django, a Python web framework. The app allows users to browse and stream movies and TV shows, similar to the popular streaming platform Netflix.
@@ -75,5 +73,7 @@ Contributions to this project are welcome! If you find a bug or would like to su
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
+
+For more understanding about the code, you can follow freecode.org for their tutorial.
 
 
