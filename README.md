@@ -41,6 +41,7 @@ virtual environment:
 6. Set up the database:
 
    ```
+   python manage.py makemigrations
    python manage.py migrate
    ```
 
@@ -63,6 +64,9 @@ virtual environment:
 To use the app, you can sign up for a new account or log in with an existing account. Once logged in, you can browse through the collection of movies and TV shows, search for specific titles, and stream content directly from the app.
 
 You can also view and update your user profile, including your watch history and preferences.
+![profile_creation](https://github.com/Snehanraikar/Netflix_clone_django/assets/98581804/ff3db427-6ef8-4c76-83b9-1ca422e717af)
+![Home_page](https://github.com/Snehanraikar/Netflix_clone_django/assets/98581804/63028017-692c-4470-99c2-2126a7cd2d24)
+
 
 ## Contributing
 
@@ -72,10 +76,4 @@ Contributions to this project are welcome! If you find a bug or would like to su
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-3. Create a virtual environment:
 
-   ```
-   python3 -m venv venv
-   ```
-
-4. Activate the
